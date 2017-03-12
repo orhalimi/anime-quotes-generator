@@ -1,0 +1,47 @@
+p,
+div {
+    margin: 0;
+    padding: 0;
+}
+
+.random-background-color {
+    background-color: red;
+}
+
+.random-text-color {
+    color: red;
+}
+
+.textbox {
+    font-size: 35px;
+    background-color: white;
+    width: 450px;
+    padding: 50px 50px 40px;
+    min-height: 5em;
+    margin: 5em auto 0;
+    color: red;
+}
+
+.textbox p {
+    padding-bottom: 20px;
+}
+
+.textbox button {
+    border: 0;
+    padding: 10px;
+    color: white;
+    font-size: 15px;
+}
+
+.quote {
+    text-align: center;
+}
+
+.quoter {
+    text-align: right;
+    font-size: 20px;
+}
+
+.new-quote {
+    float: right;
+}
